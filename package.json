@@ -1,7 +1,7 @@
 {
   "name": "react-ripple-btn",
   "private": false,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
@@ -25,6 +25,19 @@
     "prepare": "npm run build",
     "preview": "vite preview"
   },
+  "keywords": [
+    "react",
+    "button",
+    "ripple",
+    "effect",
+    "ui",
+    "component",
+    "react-component",
+    "react-ui-component",
+    "framer-motion"
+  ],
+  "author": "Devyansh",
+  "license": "MIT",
   "dependencies": {
     "path": "^0.12.7",
     "react": "^18.2.0",

@@ -20,7 +20,7 @@ import { RippleBtn } from 'react-ripple-btn';
 const MyComponent = () => {
   return (
     <RippleBtn color="white" duration={800} className="bg-red-500 p-2 rounded-xl">
-      Hello how
+      Hello World
     </RippleBtn>
   );
 };
